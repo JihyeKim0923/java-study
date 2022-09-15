@@ -1,3 +1,8 @@
+# 스터디 과제
+https://coding-0923.tistory.com/category/%EC%9E%90%EB%B0%94
+
+
+
 # 라이브 스터디
 
 [유튜브](https://www.youtube.com/user/whiteship2000)로 진행하는 라이브 스터디 운영 프로젝트입니다.
